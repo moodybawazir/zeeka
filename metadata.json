@@ -1,0 +1,7 @@
+{
+  "name": "Zeeka Cafe - Riyadh",
+  "description": "A premium specialty coffee experience in Riyadh, featuring organic grade beans and a modern, vibrant atmosphere. Browse our menu, special offers, and visit us today.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
